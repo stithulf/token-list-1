@@ -218,6 +218,14 @@
       "symbol": "1INCH",
       "decimals": 18,
       "logoURI": "https://bscscan.com/token/images/1inch_32.png"
-    }
+    },
+    {
+      "address": "0x9Df9De5Ed89ADBBd9fa2C14691903A0DE9048A87",
+      "chainId": 56,
+      "name": "Stithulf ERC",
+      "symbol": "SULFERC",
+      "decimals": 4,
+      "logoURI": "https://bscscan.com/token/images/stithulf_32.png"
+    }    
   ]
 }
